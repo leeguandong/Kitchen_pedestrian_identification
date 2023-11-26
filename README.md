@@ -1,0 +1,2 @@
+# Kitchen_pedestrian_identification
+行人检测的开源版本，后续还会添加一些行人检测算法尝试
